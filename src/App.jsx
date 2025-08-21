@@ -10,10 +10,8 @@ function App() {
     <div className="App">
       <MainHeading />
       <BreakFastList />
-      
       <LunchList />
       <DinnerList />
-      
     </div>
   );
 }
