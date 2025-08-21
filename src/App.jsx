@@ -1,7 +1,7 @@
-import BreakFastList from './components/breakFastList.jsx';
-import DinnerList from './components/dinnerList.jsx';
-import MainHeading from './components/mainHeading.jsx';
-import LunchList from './components/lunchList.jsx'; 
+import BreakFastList from './components/BreakFastList.jsx';
+import DinnerList from './components/DinnerList.jsx';
+import MainHeading from './components/MainHeading.jsx';
+import LunchList from './components/LunchList.jsx'; 
 
 function App() {
 
